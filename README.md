@@ -1,4 +1,5 @@
 # 🟣 Exploring the Relationship between Characteristics and Diagnosis of Alzheimer's Disease
+<img width="949" alt="image" src="https://github.com/MuhammadAhsanBughio/Alzheimer-Disease-Diagnosis/assets/139073097/a84c9d12-bec6-437b-bbd8-b4f8dc52c749">
 
 ## Project Overview
 
